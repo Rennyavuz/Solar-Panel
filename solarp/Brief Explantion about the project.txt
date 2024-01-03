@@ -1,0 +1,1 @@
+In this Project it is aimed to build a solar panel that changes its position sunwise.Used tools for this project are: arduino uno,a servo motor,solar panel ,ldr sensor,resistor  and led.
